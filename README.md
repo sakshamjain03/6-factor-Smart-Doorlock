@@ -22,16 +22,12 @@ The 5-factor-Smart-Doorlock is a Python-based door lock system that runs on a Ra
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository to your local machine using git <clone https://github.com/sakshamjain03/6-factor-Smart-Doorlock.git>
 2. Install the required dependencies
 3. Run the `doorlock.py` script
 
-## Usage
-
-1. Follow the on-screen instructions to unlock the door using one of the five methods.
-2. Enjoy the added security and convenience of the 5-factor-Smart-Doorlock!
 
 ## Credits
 
-This project was created by Yash Kulkarni and Saksham Jain as Innovation project at Dr. Vishwanath Karad MIT-WPU University.
+This project was created by Yash Kulkarni, OM Godbole, Tanishq Naik and Saksham Jain as Innovation project at Dr. Vishwanath Karad MIT World Peace University.
 
