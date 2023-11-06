@@ -22,7 +22,7 @@ The 5-factor-Smart-Doorlock is a Python-based door lock system that runs on a Ra
 
 ## Installation
 
-1. Clone the repository to your local machine using git <clone https://github.com/sakshamjain03/6-factor-Smart-Doorlock.git>
+1. Clone the repository to your local machine using ```git clone https://github.com/sakshamjain03/6-factor-Smart-Doorlock.git```
 2. Install the required dependencies
 3. Run the `doorlock.py` script
 
