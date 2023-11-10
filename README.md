@@ -26,6 +26,17 @@ The 5-factor-Smart-Doorlock is a Python-based door lock system that runs on a Ra
 2. Install the required dependencies
 3. Run the `doorlock.py` script
 
+To contribute to this project:
+1. Fork the repository.
+
+2. Create your feature branch: ``git checkout -b feature/your-feature``
+
+3. Commit your changes: ``git commit -m 'Add some feature'``
+
+4. Push to the branch: ``git push origin feature/your-feature``
+
+5. Create a pull request.
+Contributions are welcome! Please open an issue or pull request if you have any suggestions or improvements.
 
 ## Credits
 
